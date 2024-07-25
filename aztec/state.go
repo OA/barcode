@@ -3,7 +3,7 @@ package aztec
 import (
 	"fmt"
 
-	"github.com/boombuler/barcode/utils"
+	"github.com/OA/barcode/utils"
 )
 
 type encodingMode byte
